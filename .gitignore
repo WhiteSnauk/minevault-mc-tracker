@@ -1,0 +1,14 @@
+# Зависимости и сборка
+node_modules/
+dist/
+build/
+
+# Системные файлы и IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Логи и переменные окружения
+*.log
+.env
