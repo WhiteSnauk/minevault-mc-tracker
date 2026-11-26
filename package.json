@@ -1,0 +1,13 @@
+{
+  "name": "minevault-mc-tracker",
+  "version": "0.4.0",
+  "description": "Веб-приложение для систематизации игровых данных, координат и конфигураций миров Minecraft",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node tests/runTests.js"
+  },
+  "author": "Aleksey Bryukhankov (ISP 331)",
+  "license": "MIT"
+}
